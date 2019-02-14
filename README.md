@@ -28,7 +28,3 @@ Log that someone looked up this country
 
 /gpd - loads the data from the provided JSON file
 
-## Build an executable
-
-Build a jar artifact that can be run stand alone using  
-java -jar gdp.jar
